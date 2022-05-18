@@ -2,11 +2,13 @@
 
 Este desafio foi criado pelo **Rodolfo Mori** para promover a pratica do que foi ensinado nas aulas do **DevClub**.
 
-![](/img/html_challenge)
+![](/img/html_challenge.png)
 
 [Link do Projeto](https://html-challenge-diogoalves.netlify.app/)
 
-## Aprendizados
+<hr>
+
+### Aprendizados
 
 :heavy_check_mark: **HTML** - Hypertext Markup Language (Linguagem de Marcação de HiperTexto)
 
